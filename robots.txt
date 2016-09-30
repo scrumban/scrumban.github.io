@@ -1,0 +1,3 @@
+Host: https://scrumban.netlify.com
+User-agent: *
+Disallow:
